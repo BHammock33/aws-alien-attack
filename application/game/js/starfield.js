@@ -8,6 +8,7 @@
 
 
 //	Define the starfield class.
+// changes div into starfield
 function Starfield() {
 	this.fps = 30;
 	this.canvas = null;
